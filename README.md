@@ -4,7 +4,7 @@ Simple game created using Unreal Engine...
 WASD to move.
 RMB to Attack.
 LMB to block.
-LEFT CNTRL to crouch.
+LEFT CTRL to crouch.
 TAB to lock on to target.
 M to open menu.
 SPACE BAR to roll/dodge.
